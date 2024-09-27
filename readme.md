@@ -5,7 +5,7 @@ Created on Thu Sep 26 23:16:08 2024
 @author: Realunknown
 """
 
-All codes and data needed is saved at this file folder.
+All codes and results is saved at this file folder. The model and the original data are too large to upload, need to contact 3305228048@qq.com.
 
 Question 1:
 Fig.4.3 and Table 4.1: Run the script data_cleaning.py
